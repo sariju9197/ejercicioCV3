@@ -21,6 +21,12 @@
 				background-color:#ccc;
 				padding:10px;
 			}
+
+			.titulo{
+				width: 40%;
+				align-content: center;
+				border-collapse:5px solid #c20606;
+			}
 			
 			h1, p {
 				font-family:Verdana, sans-serif;
